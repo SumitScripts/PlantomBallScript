@@ -1,2 +1,6 @@
 # PlantomBallScript
-Working hard don't worry is op
+Best Script Of PlantomBall NoCD Auto Parry/Spam...
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SumitScripts/PlantomBallScript/main/BestAutoParryNoCD"))()
+```
+
